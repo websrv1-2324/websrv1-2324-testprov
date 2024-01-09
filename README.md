@@ -6,10 +6,12 @@
 
 ## QuickRef
 De ENDA hjälpmedel du får använda är nedanstående
-- Inbyggda hjälpmedel i VS Code (utom AI)
+- Inbyggda hjälpmedel i VS Code (utom AI, ex GitHub Copilot)
 - https://quickref.me/javascript
+- https://quickref.me/es6
 - https://quickref.me/express.html
-- 
+- https://quickref.me/json
+
 
 ## Uppgift
 Du ska jobba i index.js och sätta upp en webbserver
